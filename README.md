@@ -23,7 +23,10 @@ This playlist is made from HTML, CSS and JavaScript.Its has 4 buttons play, paus
 
 ## How to Run 
 
-Clone this repository
+Clone this repository:
+
+[Click here to view on GitHub](https://github.com/Amnaakhtar1213/mini-music-playlist)
+
 ```bash
 git clone https://github.com/Amnaakhtar1213/mini-music-playlist.git
 
