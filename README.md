@@ -37,7 +37,7 @@ Here's a music-Playlist live demo:
 - [Click here for enjoying the playlist yourself](https://amnaakhtar1213.github.io/mini-music-playlist/)
 
 --------------------------------
-Clone this repository:
+## Clone this repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/mini-music-playlist.git
 
